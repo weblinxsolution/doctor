@@ -1,0 +1,47 @@
+{
+  "blog-sidebar": {
+    "search-1": {
+      "title": ""
+    },
+    "categories-1": {
+      "title": "Categories",
+      "count": 1,
+      "hierarchical": 0,
+      "dropdown": 0
+    },
+    "recent-posts-1": {
+      "title": "Recent Posts",
+      "number": 4,
+      "show_date": true
+    },
+    "tag_cloud-1": {
+      "title": "Tags",
+      "count": 0,
+      "taxonomy": "post_tag"
+    },
+    "block-12": {
+      "content": "<!-- wp:social-links {\"className\":\"is-style-logos-only\"} -->\n<ul class=\"wp-block-social-links is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"facebook\"} \/-->\n\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} \/-->\n\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} \/--><\/ul>\n<!-- \/wp:social-links -->"
+    }
+  },
+  "footer-sidebar-top": {
+    "block-7": {
+      "content": "<!-- wp:heading {\"level\":3} -->\n<h3>Kinsey has more than 5 years of crafting digital experiences for the various brands.\u00a0<em>Would you like to share your project with us?<\/em><\/h3>\n<!-- \/wp:heading -->"
+    },
+    "block-8": {
+      "content": "<!-- wp:paragraph -->\n<p><\/p>\n<!-- \/wp:paragraph -->"
+    },
+    "block-9": {
+      "content": "<!-- wp:heading {\"level\":3,\"className\":\"underline-hover-self\"} -->\n<h3 class=\"underline-hover-self\"><meta charset=\"utf-8\"><a href=\"https:\/\/artemsemkin.com\/kinsey\/html\/036-contacts.html#\">hello@example.com<\/a><\/h3>\n<!-- \/wp:heading -->"
+    }
+  },
+  "footer-sidebar-middle": {
+    "block-10": {
+      "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:group -->\n<div class=\"wp-block-group\"><!-- wp:heading {\"level\":6,\"className\":\"widgettitle\"} -->\n<h6 class=\"widgettitle\">Office<\/h6>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p>4903 Mayo Street<br>Cincinnati<br>KY 45202<br>USA<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:group --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:group -->\n<div class=\"wp-block-group\"><!-- wp:heading {\"level\":6,\"className\":\"widgettitle\"} -->\n<h6 class=\"widgettitle\">Contacts<\/h6>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph -->\n<p><a href=\"https:\/\/artemsemkin.com\/kinsey\/html\/036-contacts.html#\">hello@example.com<\/a><br>+1 501 639 5134<br>+1 707 748 9334<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:group --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->"
+    }
+  },
+  "footer-sidebar-bottom": {
+    "block-11": {
+      "content": "<!-- wp:columns {\"verticalAlignment\":\"center\"} -->\n<div class=\"wp-block-columns are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":\"70%\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:70%\"><!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\">\u00a9 2023 Kinsey \u2013 AJAX Agency WordPress Theme. Crafted by <a rel=\"noreferrer noopener\" href=\"https:\/\/artemsemkin.com\" data-type=\"URL\" target=\"_blank\">Artem Semkin<\/a>.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<!-- \/wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\",\"className\":\"text-sm-end\"} -->\n<div class=\"wp-block-column is-vertically-aligned-center text-sm-end\"><!-- wp:social-links {\"className\":\"is-style-logos-only\"} -->\n<ul class=\"wp-block-social-links is-style-logos-only\"><!-- wp:social-link {\"url\":\"#\",\"service\":\"facebook\"} \/-->\n\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"twitter\"} \/-->\n\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"instagram\"} \/-->\n\n<!-- wp:social-link {\"url\":\"#\",\"service\":\"behance\"} \/--><\/ul>\n<!-- \/wp:social-links --><\/div>\n<!-- \/wp:column --><\/div>\n<!-- \/wp:columns -->"
+    }
+  }
+}
